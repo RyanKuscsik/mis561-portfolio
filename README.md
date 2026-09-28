@@ -4,3 +4,5 @@ Portfolio of Projects from my Data Visualization Course. This will include the c
 Initial E-Commerce Profitability Analysis, Develop a basic profitability set of dashboards and explain your design, https://public.tableau.com/views/InitialE-CommerceProfitabilityAnalysis_17890105778200/DesignJustification?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link, If I were doing this again I would have spent more time analyzing the data in excel.
 
 Account Profitability and Service Tiers, Develop a basic profitability set of dashboards and explain your design, https://public.tableau.com/views/AdvancinginTableau-Part2/DesignJustification?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link, If I were doing this again, I would spend more time exploring the data.
+
+Introduction to Power BI,9/23/2026, https://public.tableau.com/views/PowerBITrainingCertifications_17906185940810/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
