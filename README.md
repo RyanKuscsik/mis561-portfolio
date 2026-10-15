@@ -18,5 +18,7 @@ In my Initial E-Commerce Profitability Analysis, I created a profit margin line 
 In my Advancing in Tableau-Part 2 dashboard, I could improve my net contribution by tier bar chart with Power BI’s drill-down feature. Marcus could move from tier to category, product, and region in the same visual to identify where the problem starts.
 For division of labor, I would use Excel for data cleaning, analysis, and quick checks; Tableau for quickly exploring and presenting data; and Power BI for recurring reports that depend on continuously updated data.
 My main gap is that I have not published to Power BI Service or maintained a report others rely on. To improve, I would publish a report, schedule a refresh, have a classmate test it, and fix any issues.
+
+https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17921027157500/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 Sincerely,
 Ryan Kuscsik
