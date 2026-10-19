@@ -17,8 +17,12 @@ After learning Power BI’s capabilities, I’m ready to use it for business int
 In my Initial E-Commerce Profitability Analysis, I created a profit margin line graph over time to identify the weakest product segment. Anita had to follow the lines to determine which was lowest. In Power BI, I could quickly create a profit margin measure and a second measure flagging segments below a target margin. A KPI card with conditional formatting could then highlight the weak segment. These measures would also update automatically as new data comes in.
 In my Advancing in Tableau-Part 2 dashboard, I could improve my net contribution by tier bar chart with Power BI’s drill-down feature. Marcus could move from tier to category, product, and region in the same visual to identify where the problem starts.
 For division of labor, I would use Excel for data cleaning, analysis, and quick checks; Tableau for quickly exploring and presenting data; and Power BI for recurring reports that depend on continuously updated data.
-My main gap is that I have not published to Power BI Service or maintained a report others rely on. To improve, I would publish a report, schedule a refresh, have a classmate test it, and fix any issues.
-
-https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17921027157500/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Sincerely,
+My main gap is that I have not published to Power BI Service or maintained a report others rely on. To improve, I would publish a report, schedule a refresh, have a classmate test it, and fix any issues. Sincerely,
 Ryan Kuscsik
+
+Advancing in Excel and Tableau - Pt. 3, Develop a contactless-readiness dashboard and one explanatory visual that show which non-contactless cards to replace early, how many there are, and the cost of the batch[Card Portfolio Review – Contactless Readiness](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17921027157500/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) If I did this again, I would look at the data by batch in a table first to help me decide what visual to make before makign it. 
+
+
+
+
+
