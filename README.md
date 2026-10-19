@@ -20,7 +20,7 @@ For division of labor, I would use Excel for data cleaning, analysis, and quick 
 My main gap is that I have not published to Power BI Service or maintained a report others rely on. To improve, I would publish a report, schedule a refresh, have a classmate test it, and fix any issues. Sincerely,
 Ryan Kuscsik
 
-Advancing in Excel and Tableau - Pt. 3, Develop a contactless-readiness dashboard and one explanatory visual that show which non-contactless cards to replace early, how many there are, and the cost of the batch[Card Portfolio Review – Contactless Readiness](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17921027157500/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) If I did this again, I would look at the data by batch in a table first to help me decide what visual to make before makign it. 
+Advancing in Excel and Tableau - Pt. 3, Develop a contactless-readiness dashboard and one explanatory visual that show which non-contactless cards to replace early, how many there are, and the cost of the batch [Card Portfolio Review – Contactless Readiness](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17921027157500/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) If I did this again, I would look at the data by batch in a table first to help me decide what visual to make before makign it. 
 
 
 
