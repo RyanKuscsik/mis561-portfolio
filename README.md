@@ -22,6 +22,8 @@ Ryan Kuscsik
 
 Advancing in Excel and Tableau - Pt. 3, Develop a contactless-readiness dashboard and one explanatory visual that show which non-contactless cards to replace early, how many there are, and the cost of the batch [Card Portfolio Review – Contactless Readiness](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17921027157500/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) If I did this again, I would look at the data by batch in a table first to help me decide what visual to make before makign it. 
 
+Advancing in Excel and Tableau - Pt. 4, Develop a customer-level eligibility dashboard for the Wildcat Rewards offer and explain which group should receive the pilot mailing, [Card Growth Analysis – Wildcat Rewards Offer](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930397707030/ExploratoryDashbaord?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I did this again, I would spend more time making sure the sizing was consistent across each dashbaord. 
+
 
 
 
