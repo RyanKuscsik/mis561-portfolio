@@ -24,7 +24,16 @@ Advancing in Excel and Tableau - Pt. 3, Develop a contactless-readiness dashboar
 
 Advancing in Excel and Tableau - Pt. 4, Develop a customer-level eligibility dashboard for the Wildcat Rewards offer and explain which group should receive the pilot mailing, [Card Growth Analysis – Wildcat Rewards Offer](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930397707030/ExploratoryDashbaord?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I did this again, I would spend more time making sure the sizing was consistent across each dashbaord. 
 
+Nov 2, 2026 · Data Storytelling with Adobe Express
+Work Sample for Jordan Ellis, VP of Card Growth at Bear Down Bank. The Wildcat Rewards pilot mailing should go to Texas customers who are eligible at the 670 FICO cutoff and have no credit card.
+Work Sample (PDF). [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:ef23b0c9-d0ee-50c7-a7ec-dfa3d1b6771e?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other).
 
+Design Choice: I chose a ranked bar chart of eligible customers by state over a map or a chart ranked by share, because Jordan has to pick one mailing group and the bars show at a glance that Texas's 68 eligible customers outnumber the next three states combined (51), while ranking by share would have put Colorado first on only 13 customers. My draft showed eight states under a chart title that repeated the headline, and I cut it to the top five and removed the title, which let me enlarge the labels so every number is readable at full-page size on a laptop. The headline, one callout number, and a single recommendation line now carry the decision, and the Colorado caveat sits in a note so a reader doesn't have to wonder about it.
+
+Training Completed: Oct 28, 2026
+
+AI Use: Anthropic. (2026). *Claude* (Claude Sonnet 5.5) [Large language model]. https://claude.ai
+Date used: November 2, 2026. Prompt: "this is a rough infographic. Look at it and give me suggestions, and let me know if it matches the assignment instructions"
 
 
 
