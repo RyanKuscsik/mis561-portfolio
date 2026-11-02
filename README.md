@@ -26,7 +26,7 @@ Advancing in Excel and Tableau - Pt. 4, Develop a customer-level eligibility das
 
 Nov 2, 2026 · Data Storytelling with Adobe Express
 Work Sample for Jordan Ellis, VP of Card Growth at Bear Down Bank. The Wildcat Rewards pilot mailing should go to Texas customers who are eligible at the 670 FICO cutoff and have no credit card.
-Work Sample (PDF). [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:ef23b0c9-d0ee-50c7-a7ec-dfa3d1b6771e?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other).
+[Work Sample (PDF)](https://github.com/RyanKuscsik/mis561-portfolio/blob/main/adobe/kuscsik-Data-Storytelling.pdf). [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:ef23b0c9-d0ee-50c7-a7ec-dfa3d1b6771e?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other).
 
 Design Choice: I chose a ranked bar chart of eligible customers by state over a map or a chart ranked by share, because Jordan has to pick one mailing group and the bars show at a glance that Texas's 68 eligible customers outnumber the next three states combined (51), while ranking by share would have put Colorado first on only 13 customers. My draft showed eight states under a chart title that repeated the headline, and I cut it to the top five and removed the title, which let me enlarge the labels so every number is readable at full-page size on a laptop. The headline, one callout number, and a single recommendation line now carry the decision, and the Colorado caveat sits in a note so a reader doesn't have to wonder about it.
 
