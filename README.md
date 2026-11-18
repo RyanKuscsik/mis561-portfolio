@@ -38,7 +38,7 @@ Date used: November 2, 2026. Prompt: "this is a rough infographic. Look at it an
 **Nov 18, 2026· Brand Standard Application in Tableau**
 Rebranded a public IMDb movie dashboard, then built a brief for  Priya Natarajan, Editorial Director for IMDb Originals:  whether to fund a
 recurring video series on non-English-language movies, and which languages to feature first.
-[[Tableau workbook]](https://public.tableau.com:9443/views/IMDbMovieDataAnalysis_17949856550360/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[[Tableau workbook]](https://public.tableau.com/shared/39MB2S3G3?:display_count=n&:origin=viz_share_link)
 One thing I’d change: I would duplicate the footer for each dashboard instead of trying to resize it perfectly.
 AI use: I used AI (Claude) to help understand the data dictionary and draft the design justification; the analytical choices and Tableau checks were my own. 11/18/26.
 
